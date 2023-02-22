@@ -72,3 +72,13 @@
 .coursesImage{
     margin: 3px;
 }
+.jobtexttitle{
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    text-decoration: underline;
+    text-emphasis: bold;
+}
+.jobtext{
+    font-size: large;
+    text-emphasis: bold;
+}
