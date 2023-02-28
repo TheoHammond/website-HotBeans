@@ -82,3 +82,8 @@
     font-size: large;
     text-emphasis: bold;
 }
+.traineeImage{
+    position: absolute;
+    top: 160px;
+    left: 750px;
+}
